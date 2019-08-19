@@ -57,8 +57,9 @@ const siteConfig = {
     },
   ],
   algolia: {
-    apiKey: '8a5e6d20f17b8eb2952eb3fc9eb2aa5c',
-    indexName: 'docusaurus-lnwdark',
+
+    apiKey: 'b90bb20f959bede9e2c8cd8cddc6450a',
+    indexName: 'lnwdark',
     placeholder: 'search Data',
     algoliaOptions: {} // Optional, if provided by Algolia
   },
